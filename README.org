@@ -1,0 +1,10 @@
+* dynamic-mixins
+
+Simple, dynamic class combination for CLOS.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/rpav/dynamic-mixins.git   |
+| commit  | 7cc09be  |
+| systems | dynamic-mixins |
+|---------+-------------------------------------------|
+
